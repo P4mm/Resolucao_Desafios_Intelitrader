@@ -10,5 +10,5 @@ Cada movimento consiste em pegar um disco de um pino e colocá-lo em outro pino;
 Só é possível em cada movimento pegar o último disco empilhado em um pino.
 Implemente um programa que resolva este problema.
 
-Link do desafio:
+# Link do desafio:
 https://dojopuzzles.com/problems/torres-de-hanoi/
